@@ -1,0 +1,6 @@
+name: TestSpawnReg
+version: '0.0.8'
+main: securityexception.testspawnreg.TestSpawnReg
+api-version: '1.20'
+commands:
+  setspawnreg:
